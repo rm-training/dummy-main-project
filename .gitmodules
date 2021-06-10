@@ -1,3 +1,7 @@
 [submodule "module-a"]
 	path = module-a
 	url = git@github.com:rm-training/module-a.git
+[submodule "module-b"]
+	path = module-b
+	url = git@github.com:rm-training/module-b.git
+	branch = special-branch
